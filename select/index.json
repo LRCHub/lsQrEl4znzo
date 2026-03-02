@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "わたしたちのクエスト",
+  "base_artist": "モモイ(CV.徳井青空)、ユズ(CV.寺澤百花)、アリス(CV.田中美海)、ミドリ(CV.高田憂希)",
+  "createdAt": "2026-03-02T20:15:24.394843Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "わたしたちのクエスト",
+      "artist": "モモイ(CV.徳井青空)、ミドリ(CV.高田憂希)、ユズ(CV.寺澤百花)、アリス(CV.田中美海)",
+      "has_synced": true,
+      "path": "select/01_わたしたちのクエスト_モモイ(CV.徳井青空)、ミドリ(CV.高田憂希)、ユズ(CV.寺澤百花)、アリス(CV.田中美海).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Our Quest / わたしたちのクエスト",
+      "artist": "モモイ(CV.徳井青空), ミドリ(CV.高田憂希), ユズ(CV.寺澤百花) & アリス(CV.田中美海)",
+      "has_synced": true,
+      "path": "select/02_Our_Quest___わたしたちのクエスト_モモイ(CV.徳井青空),_ミドリ(CV.高田憂希),_ユズ(CV.寺澤百花)_&_アリス(CV.田中美海).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "わたしたちのクエスト",
+      "artist": "モモイ(CV.徳井青空)",
+      "has_synced": true,
+      "path": "select/03_わたしたちのクエスト_モモイ(CV.徳井青空).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "わたしたちのクエスト",
+      "artist": "モモイ(CV.徳井青空), ミドリ(CV.高田憂希), ユズ(CV.寺澤百花), アリス(CV.田中美海)",
+      "has_synced": true,
+      "path": "select/04_わたしたちのクエスト_モモイ(CV.徳井青空),_ミドリ(CV.高田憂希),_ユズ(CV.寺澤百花),_アリス(CV.田中美海).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "わたしたちのクエスト",
+      "artist": "モモイ(CV.徳井青空)、ミドリ(CV.高田憂希)、ユズ(CV.寺澤百花)、アリス(CV.田中美海)",
+      "has_synced": false,
+      "path": "select/pl_01_わたしたちのクエスト_モモイ(CV.徳井青空)、ミドリ(CV.高田憂希)、ユズ(CV.寺澤百花)、アリス(CV.田中美海).txt"
+    }
+  ]
+}
